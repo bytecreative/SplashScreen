@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+    <string name="signup">Sign Up</string>
+    <string name="create">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="third">Sig in with third-party account</string>
+    <string name="google">Google</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="apple">Apple ID</string>
+    <string name="already">Already have an account?</string>
+    <string name="login">Sign in</string>
+    <string name="createUp">Sign up for an account</string>
+    <string name="detail">Detail</string>
+    <string name="join">Join Now</string>
+    <string name="LoremIpsum">Lorem Ipsum</string>
+    <string name="simply">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry is standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
 </resources>
